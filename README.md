@@ -6,7 +6,7 @@ COMATA implements Test T analysis for comparison between two variable responses 
 
 ## STEP.1 - Download the repository in your path of interest:
 
-Git is required
+Git is required:
 
  $ git clone https://github.com/salasouza/COMATA.git
  
