@@ -3,7 +3,6 @@
 
 COMATA implements Test T analysis for comparison between two variable responses in a given experimental condition.
 
-
 ## STEP.1 - Download the repository in your path of interest:
 
 Git is required:
